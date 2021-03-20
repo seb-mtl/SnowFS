@@ -1,4 +1,8 @@
 {
+    "ts-node": {
+      "transpiler": "ts-node/transspilers/swc-experimental",
+      "transpilesOnly": true
+    },
     "compileOnSave": false,
     "compilerOptions": {
       "module": "commonjs",
