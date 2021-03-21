@@ -1,7 +1,7 @@
 {
     "ts-node": {
-      "transpiler": "ts-node/transspilers/swc-experimental",
-      "transpilesOnly": true
+      "transpiler": "ts-node/transpilers/swc-experimental",
+      "transpileOnly": true
     },
     "compileOnSave": false,
     "compilerOptions": {
